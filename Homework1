@@ -1,3 +1,5 @@
+Homework 1
+
 1) How would you define Machine Learning?    
  Answer:
      Machine Learning is an Application of Artificial Intelligence (AI) it gives devices the ability to 
@@ -13,3 +15,12 @@
      and different algorithms are used to build ML models to train the machines on this data. 
      The choice of algorithm depends on the type of data at hand, 
      and the type of activity that needs to be automated.
+
+2) What are the differences between Supervised and Unsupervised Learning? Specify example 3 algorithms for each of these.
+ Answer:
+   
+1) How would you define Machine Learning?
+3) What are the test and validation set, and why would you want to use them?
+4) What are the main preprocessing steps? Explain them in detail. Why we need to prepare our data?
+5) How you can explore countionus and discrete variables?
+6) Analyse the plot given below. (What is the plot and variable type, check the distribution and make comment about how you can preproccess it.)
