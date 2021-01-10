@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![](img/logo.png)
+![](https://github.com/KutayAkalin/GAIH_Student_Repo_Example/blob/main/img/logo.png)
 
 **Course Date:** Jan 4, 2021
 **Name:** Amit  
