@@ -1,5 +1,8 @@
-Homework 1
-
+<html>
+<head>
+<title> <h5> Homeworks </h5></title>
+</head>
+<p>
 1) How would you define Machine Learning?    
  Answer:
      -Machine Learning is an Application of Artificial Intelligence (AI) it gives devices the ability to 
@@ -18,9 +21,16 @@ Homework 1
 
 2) What are the differences between Supervised and Unsupervised Learning? Specify example 3 algorithms for each of these.
  Answer:
-     
+ 
+ Supervised learning
+     1] Supervised learning as the name indicates the presence of a supervisor as a teacher. 
+     Basically supervised learning is a learning in which we teach or train the machine using data which is well labeled that means some data is already tagged with 
+     the correct answer. After that, the machine is provided with a new set of examples(data) so that supervised learning algorithm analyses 
+     the training data(set of training examples) and produces a correct outcome from labeled data. 
 1) How would you define Machine Learning?
 3) What are the test and validation set, and why would you want to use them?
 4) What are the main preprocessing steps? Explain them in detail. Why we need to prepare our data?
 5) How you can explore countionus and discrete variables?
 6) Analyse the plot given below. (What is the plot and variable type, check the distribution and make comment about how you can preproccess it.)
+</p>
+</html>
