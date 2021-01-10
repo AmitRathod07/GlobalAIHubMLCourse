@@ -18,4 +18,4 @@ Some python libraries
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+![](file:///C:/Users/amitr/Downloads/ML_Certificate%20(1).png)
