@@ -18,4 +18,4 @@ Some python libraries
 ---
 
 ### Certification
-![](https://github.com/AmitRathod07/GlobalAIHubMLCourse/blob/main/img/ML_Certificate%20(1).png)
+![](img/ML_Certificate.png)
